@@ -8,8 +8,6 @@ This version utilises AirBnB style guide for JavasScript and SASS, with some sli
 > * all tweaks can be found in the .eslintrc file in the root folder, and can be removed to revert back to the base AirBnB linter.
 > * if you are not using Visual Studio Code, feel free to delete the .vscode folder as it will not impact the project.
 
----
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
