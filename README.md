@@ -1,4 +1,5 @@
-# React-Redux Boilerplate with AirBnB Style Linting (for JavaScript and SASS)
+# React-Redux Boilerplate with AirBnB Style Linting 
+# (for JavaScript and SASS)
 
 A React and Redux boilerplate with hot reloading, SASS compiling and provides a clean starting point for building applications.
 
@@ -6,7 +7,7 @@ This version utilises AirBnB style guide, with some slight tweaks.
 
 > Note: all tweaks can be found in the .eslintrc file in the root folder, and can be removed to revert back to the base AirBnB linter.
 
-For the TypeScript version check out [tsrr-boiler.](https://github.com/LiamRoss/tsrr-boiler.git)
+---
 
 ## Getting Started
 
