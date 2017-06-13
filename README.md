@@ -4,7 +4,9 @@ A React and Redux boilerplate with hot reloading, SASS compiling and provides a 
 
 This version utilises AirBnB style guide for JavasScript and SASS, with some slight tweaks.
 
-> Note: all tweaks can be found in the .eslintrc file in the root folder, and can be removed to revert back to the base AirBnB linter.
+> Notes: 
+> * all tweaks can be found in the .eslintrc file in the root folder, and can be removed to revert back to the base AirBnB linter.
+> * if you are not using Visual Studio Code, feel free to delete the .vscode folder as it will not impact the project.
 
 ---
 
@@ -28,7 +30,7 @@ $yarn -v
 Clone the repository to your local machine
 
 ```
-git clone https://github.com/LiamRoss/srr-boiler.git
+git clone https://github.com/liamross/redux-boiler-lint.git
 ```
 
 Finally, run your preferred package installer
