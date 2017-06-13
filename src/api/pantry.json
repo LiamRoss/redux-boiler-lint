@@ -1,0 +1,39 @@
+{
+  "pantryItems": {
+    "name": "Pantry Items",
+    "results": [
+      {
+        "id": "20d9a45d-2cda-418f-b1d8-70236ae56e29",
+        "name": "Milk",
+        "amount": {
+          "current": 2,
+          "initial": 3,
+          "unit": "litre"
+        },
+        "expires": {
+          "day": 2,
+          "month": 3,
+          "year": 2017
+        },
+        "recipes": [],
+        "notifications": []
+      },
+      {
+        "id": "2b1cee32-181a-47af-b243-8308d14885b7",
+        "name": "Orange Juice",
+        "amount": {
+          "current": 1,
+          "initial": 1.5,
+          "unit": "litre"
+        },
+        "expires": {
+          "day": 4,
+          "month": 3,
+          "year": 2017
+        },
+        "recipes": [],
+        "notifications": []
+      }
+    ]
+  }
+}
