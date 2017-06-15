@@ -11,7 +11,7 @@ const Sample1 = () => (
     <div style={divStyle}>
       <Sample1Subcomponent.component />
     </div>
-  </div >
+  </div>
 )
 
 export default Sample1
